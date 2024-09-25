@@ -1,0 +1,35 @@
+body{
+    background-color: aliceblue;
+}
+.weather-container{
+    max-width: 400px;
+    min-height: 400px;
+    margin: 10% auto;
+    padding: 20px;
+    background-color: #ADDBF8;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+.weather-info{
+    margin-top: 50px;
+}
+input{
+    padding: 8px 90px 8px 10px;
+    border-radius: 4px;
+    border: 1px solid white;
+}
+button{
+    background-color: #0e689fe2;
+    color:  white;
+    border-radius: 10px;
+    border: none;
+    padding: 8px 20px;
+    margin-left: 10px;
+}
+h3{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
